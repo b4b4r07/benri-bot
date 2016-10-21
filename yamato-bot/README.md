@@ -13,9 +13,9 @@ yamato-bot
 
 一度、コマンドを実行すると伝票番号とステータス（`荷物受付`、`発送`など）がキャッシュされ、ウォッチし続けます (cron)。ステータスが変わると通知してくれます。
 
-![](./demo1.png)
+<img src="./demo1.png" width="300">
 
-![](./demo2.png)
+<img src="./demo2.png" width="300">
 
 ## TODOs
 
